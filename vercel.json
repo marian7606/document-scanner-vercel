@@ -1,18 +1,7 @@
-
 {
   "version": 2,
   "framework": "nextjs",
   "buildCommand": "npm run build",
   "outputDirectory": ".next",
-  "installCommand": "npm install",
-  "devCommand": "npm run dev",
-  "env": {
-    "NODE_ENV": "production",
-    "SMTP_HOST": "mail.schetovoditel-bulgaria.com",
-    "SMTP_PORT": "465",
-    "SMTP_USER": "schetovoditel@schetovoditel-bulgaria.com",
-    "SMTP_PASS": "Bubule4kaKle4ka",
-    "EMAIL_FROM": "schetovoditel@schetovoditel-bulgaria.com",
-    "EMAIL_TO": "schetovoditel.varna@gmail.com"
-  }
+  "installCommand": "npm install"
 }
